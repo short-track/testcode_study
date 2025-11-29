@@ -3,8 +3,10 @@ chapter7/node_modules/
 chapter7/.next/
 chapter7/out/
 chapter7/build/
-chapter7/next-env.d.ts
 chapter7/coverage/
-chapter7/package-lock.json
-chapter7/yarn.lock
 
+chapter10/node_modules/
+chapter10/.next/
+chapter10/out/
+chapter10/build/
+chapter10/coverage/
