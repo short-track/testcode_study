@@ -11,7 +11,7 @@ export async function getComments({ postId }: { postId: number }): Promise<ApiCo
   }).then(handleResolve);
 }
 
-// 작성하시오
+// 코드를 작성하시오
 export async function postComment({ postId, content }: Input): Promise<ApiComment.PostReturn> {
 }
 

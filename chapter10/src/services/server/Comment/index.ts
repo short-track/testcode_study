@@ -38,7 +38,7 @@ export async function createComment({
   userId: number;
 }) {
   try {
-    // 작성하시오
+    // 코드를 작성하시오
   } catch (err) {
     handlePrismaError(err);
   }
