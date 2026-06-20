@@ -3,7 +3,6 @@ import { INITIAL_VIEWPORTS } from 'storybook/viewport';
 
 const preview: Preview = {
   parameters: {
-    actions: { argTypesRegex: "^on.*" },
     viewport: {
       options: INITIAL_VIEWPORTS,
     },
